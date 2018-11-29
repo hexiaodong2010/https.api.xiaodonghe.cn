@@ -1,0 +1,1 @@
+{"virtualbox":{"/opt/workspace/gopath/src/https.api.xiaodonghe.cn":{"guestpath":"/opt/workspace/gopath/src/https.api.xiaodonghe.cn","hostpath":"D:/go/src/https.api.xiaodonghe.cn","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/go/src/https.api.xiaodonghe.cn","disabled":false,"__vagrantfile":true}}}

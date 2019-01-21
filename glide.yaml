@@ -1,0 +1,4 @@
+package: https.api.xiaodonghe.cn
+import:
+- package: github.com/labstack/echo
+  version: ~3.1

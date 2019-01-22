@@ -2,261 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a7f5ea0-ffab-4786-89c1-932bf06ca087" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/https.api.xiaodonghe.cn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/action_provision" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/action_set_name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/box_meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/creator_uid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/id" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/index_uuid" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/private_key" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/synced_folders" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vagrant/machines/default/virtualbox/vagrant_cwd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vagrantfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glide.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glide.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/.codeclimate.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/.github/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/License" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/association.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/association_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/callback.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/callback_create.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/callback_delete.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/callback_query.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/callback_query_preload.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/callback_row_query.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/callback_save.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/callback_system_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/callback_update.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/callbacks_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/create_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/customize_column_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/delete_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/dialect.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/dialect_common.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/dialect_mysql.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/dialect_postgres.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/dialect_sqlite3.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/dialects/mssql/mssql.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/dialects/mysql/mysql.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/dialects/postgres/postgres.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/dialects/sqlite/sqlite.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/embedded_struct_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/errors.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/errors_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/field.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/field_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/interface.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/join_table_handler.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/join_table_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/logger.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/main_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/migration_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/model.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/model_struct.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/multi_primary_keys_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/naming.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/naming_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/pointer_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/polymorphic_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/preload_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/query_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/scaner_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/scope.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/scope_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/search.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/search_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/test_all.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/update_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/utils.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/jinzhu/gorm/wercker.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/.github/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/_fixture/certs/cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/_fixture/certs/key.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/_fixture/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/_fixture/folder/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/_fixture/images/walle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/_fixture/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/bind.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/bind_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/context.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/context_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/auto-tls/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/cors/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/crud/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/embed-resources/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/embed-resources/app/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/embed-resources/app/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/embed-resources/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/file-upload/multiple/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/file-upload/multiple/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/file-upload/single/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/file-upload/single/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/google-app-engine/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/google-app-engine/app-engine.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/google-app-engine/app-engine.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/google-app-engine/app-managed.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/google-app-engine/app-managed.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/google-app-engine/app-standalone.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/google-app-engine/app.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/google-app-engine/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/google-app-engine/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/google-app-engine/public/scripts/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/google-app-engine/templates/welcome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/google-app-engine/users.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/google-app-engine/welcome.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/graceful-shutdown/grace/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/graceful-shutdown/graceful/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/graceful-shutdown/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/hello-world/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/http2/cert.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/http2/key.pem" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/http2/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/jsonp/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/jsonp/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/jwt/custom-claims/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/jwt/map-claims/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/middleware/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/streaming-response/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/subdomains/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/twitter/handler/handler.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/twitter/handler/post.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/twitter/handler/user.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/twitter/model/post.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/twitter/model/user.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/twitter/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/websocket/gorilla/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/websocket/net/server.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/cookbook/websocket/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/echo.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/echo_go1.8.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/echo_go1.8_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/echo_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/glide.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/glide.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/group.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/group_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/log.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/basic_auth.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/basic_auth_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/body_limit.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/body_limit_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/compress.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/compress_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/cors.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/cors_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/csrf.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/csrf_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/jwt.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/jwt_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/key_auth.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/key_auth_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/logger.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/logger_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/method_override.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/method_override_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/middleware.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/recover.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/recover_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/redirect.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/redirect_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/request_id.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/request_id_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/secure.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/secure_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/slash.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/slash_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/static.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/static_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/response.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/router.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/router_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/config.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/cookbook.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/cookbook/auto-tls.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/cookbook/cors.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/cookbook/crud.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/cookbook/embed-resources.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/cookbook/file-upload.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/cookbook/google-app-engine.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/cookbook/graceful-shutdown.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/cookbook/hello-world.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/cookbook/http2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/cookbook/jsonp.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/cookbook/jwt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/cookbook/middleware.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/cookbook/streaming-response.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/cookbook/subdomains.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/cookbook/twitter.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/cookbook/websocket.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/guide.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/guide/context.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/guide/cookies.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/guide/customization.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/guide/error-handling.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/guide/faq.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/guide/installation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/guide/migration.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/guide/request.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/guide/response.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/guide/routing.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/guide/static-files.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/guide/templates.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/guide/testing.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/middleware.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/middleware/basic-auth.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/middleware/body-limit.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/middleware/cors.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/middleware/csrf.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/middleware/gzip.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/middleware/jwt.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/middleware/key-auth.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/middleware/logger.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/middleware/method-override.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/middleware/recover.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/middleware/redirect.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/middleware/request-id.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/middleware/secure.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/middleware/static.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/middleware/trailing-slash.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/content/support-echo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/data/index.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/layouts/_default/single.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/layouts/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/layouts/partials/ad.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/layouts/partials/connect.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/layouts/partials/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/layouts/partials/head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/layouts/partials/notice.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/layouts/partials/share.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/layouts/partials/sidenav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/layouts/partials/topnav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/layouts/shortcodes/embed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/layouts/shortcodes/source.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/layouts/single/single.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/static/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/static/images/share.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/static/images/terminal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/github.com/labstack/echo/website/static/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -292,38 +40,34 @@
         <counts>
           <entry key="Makefile" value="202" />
           <entry key="Vagrantfile" value="4" />
+          <entry key="gitignore" value="5" />
           <entry key="go" value="229" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Go" value="229" />
-          <entry key="PLAIN_TEXT" value="206" />
+          <entry key="PLAIN_TEXT" value="211" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Vagrantfile">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="620">
-              <caret line="61" column="37" lean-forward="true" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
+            <state relative-caret-position="204">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Makefile">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/api/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
               <folding>
                 <element signature="e#14#91#0" expanded="true" />
               </folding>
@@ -334,52 +78,6 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/glide.yaml">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/recover.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="70" column="18" lean-forward="true" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/github.com/labstack/echo/.travis.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/github.com/labstack/echo/glide.yaml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/github.com/labstack/echo/log.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/github.com/labstack/echo/middleware/basic_auth.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/github.com/labstack/echo/echo.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="450" column="15" selection-start-line="450" selection-start-column="15" selection-end-line="450" selection-end-column="15" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -401,6 +99,7 @@
         <option value="$PROJECT_DIR$/Vagrantfile" />
         <option value="$PROJECT_DIR$/api/main.go" />
         <option value="$PROJECT_DIR$/Makefile" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -429,6 +128,11 @@
               <item name="https.api.xiaodonghe.cn" type="b2602c69:ProjectViewProjectNode" />
               <item name="https.api.xiaodonghe.cn" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="https.api.xiaodonghe.cn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="https.api.xiaodonghe.cn" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -444,6 +148,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\go\src\https.api.xiaodonghe.cn\vendor" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -484,16 +193,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33260393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16491511" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.40899122" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32968238" />
@@ -501,10 +206,14 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32968238" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.46797153" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -564,19 +273,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="e#14#91#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/glide.yaml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Makefile">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
